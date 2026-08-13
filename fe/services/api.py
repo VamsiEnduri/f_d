@@ -1,8 +1,6 @@
 import requests
 
-
-BACKEND_URL = "http://localhost:8000"
-
+BACKEND_URL = "https://f-d-i74a.onrender.com"
 
 def create_student(student_data):
 
