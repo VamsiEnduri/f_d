@@ -1,6 +1,6 @@
 import requests
 
-BACKEND_URL = "https://f-d-i74a.onrender.com"
+BACKEND_URL = st.secrets["be_url"]
 
 def create_student(student_data):
 
