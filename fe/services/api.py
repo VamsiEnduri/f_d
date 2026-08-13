@@ -1,4 +1,5 @@
 import requests
+import streamlit as st
 
 BACKEND_URL = st.secrets["be_url"]
 
